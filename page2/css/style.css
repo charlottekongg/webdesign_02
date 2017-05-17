@@ -1,0 +1,13 @@
+body {
+  background: #b0976c;
+}
+
+#header{
+  background:lightgrey;
+  display: inline-block
+}
+
+#list-group{
+      background: grey;
+  }
+
